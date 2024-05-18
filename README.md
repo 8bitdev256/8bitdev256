@@ -2,8 +2,7 @@
 Actually I work with VB6, VB.NET and C# desktop applications.
 - 🔭 I’m currently work as a backend developer, where I have 2 years experience with VB6, VB.NET and C# desktop applications development.
 Also I have 2 years experience with PHP/WordPress/WooCommerce themes/plugins customization
-- 🌱 I’m currently learning ...
-Go, but I learned a little about other languages, like Ruby and Java.
+- 🌱 I’m currently learning Go, but I learned a little about other languages, like Ruby and Java.
 - 📫 How to reach me: ...
 [LinkedIn](https://www.linkedin.com/in/erich-neto-507010296/)
 <!--
