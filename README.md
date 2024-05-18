@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 🖖
 Backend developer
-###🧪Expericence
+### 🧪Experience
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 👉 2 years
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erich-neto-507010296/)
