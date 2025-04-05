@@ -7,7 +7,7 @@
 ## 🧠 Knowledge
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=8bitdev256&theme=onestar&row=1&column=9&" alt="8bitdev256" />
+<img src="https://github-profile-trophy.vercel.app/?username=8bitdev256&theme=dracula&row=1&column=9&" alt="8bitdev256" />
 </p>
 
 <p align="center">
