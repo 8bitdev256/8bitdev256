@@ -134,7 +134,7 @@
 
 <h3 align="left">SOs:</h3>
 <p align="left">
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <a href="https://www.microsoft.com" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="selenium" width="40" height="40"/>
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
