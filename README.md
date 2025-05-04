@@ -29,7 +29,7 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Frontend      | Content Cell  |
 | Content Cell  | Content Cell  |
 
 <h3 align="left">Frontend:</h3>
