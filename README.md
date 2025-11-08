@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!</h1>
+<h1 align="center">Hey there! 😄</h1>
 I am a backend programmer with 5 years of experience, where in the first 2 years I worked as a freelancer on short-term projects.
 
 The languages ​​I am most proficient in are C# and Java, but I have also worked with PHP and WordPress, and currently with React and React Native.
