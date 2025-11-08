@@ -9,7 +9,7 @@ Currently, my focus is on web and mobile development. I also have basic knowledg
 
 Below are some specifications:
 
-C#
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> C#
 - Entity Framework
 - Autofac
 - Dapper
