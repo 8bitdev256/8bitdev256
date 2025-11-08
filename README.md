@@ -9,7 +9,7 @@ Currently, my focus is on web and mobile development. I also have basic knowledg
 
 Below are some specifications:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> C#
 - Entity Framework, Autofac, Dapper, REST API
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> Java
