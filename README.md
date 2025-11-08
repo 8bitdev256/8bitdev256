@@ -1,5 +1,28 @@
-<h1 align="center">8bitdev256</h1>
+<h1 align="center">Hey there!</h1>
+I am a backend programmer with 5 years of experience, where in the first 2 years I worked as a freelancer on short-term projects.
 
+The languages ​​I am most proficient in are C# and Java, but I have also worked with PHP and WordPress, and currently with React and React Native.
+
+I have knowledge of developing desktop, web, and mobile applications. Always open to new challenges and new technologies.
+
+Currently, my focus is on web and mobile development. I also have basic knowledge of frontend development, where I have worked with Windows Forms, JavaScript, Bootstrap, among others.
+
+Below are some specifications:
+
+C#
+- Entity Framework
+- Autofac
+- Dapper
+- REST API
+
+Java
+- Spring Boot
+- Maven
+- REST API
+- HSQL Database
+- JPA
+- Flyway Migrations
+- Use of DTOs for data manipulation.
 
 ## 🧪Experience
 - [x] ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 👉 3 years
