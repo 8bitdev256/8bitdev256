@@ -1,21 +1,21 @@
-<h1 align="center">Olá! 😄</h1>
+<h1 align="center">🇧🇷 Olá! 😄 | 🇺🇸 Hey there! 😄</h1>
+
 Sou um programador backend com 5 anos de experiência, onde nos 2 primeiros anos trabalhei como freelancer em projetos de curto prazo.
+
+>I am a backend programmer with 5 years of experience, where in the first 2 years I worked as a freelancer on short-term projects.
 
 As linguagens onde mais possuo conhecimento são C# e Java, mas também já trabalhei com PHP e WordPress, e atualmente com React e React Native.
 
+>The languages ​​I am most proficient in are C# and Java, but I have also worked with PHP and WordPress, and currently with React and React Native.
+
 Possuo conhecimento para desenvolvimento de aplicações desktop, web e mobile. Sempre disposto a novos desafios e novas tecnologias.
+
+> I have knowledge of developing desktop, web, and mobile applications. Always open to new challenges and new technologies.
 
 Atualmente meu foco é em desenvolvimento web e mobile. Possuo também conhecimento básico em frontend, onde já trabalhei com Windows Forms,
 JavaScript, Bootstrap, entre outros.
 
-<h1 align="center">Hey there! 😄</h1>
-I am a backend programmer with 5 years of experience, where in the first 2 years I worked as a freelancer on short-term projects.
-
-The languages ​​I am most proficient in are C# and Java, but I have also worked with PHP and WordPress, and currently with React and React Native.
-
-I have knowledge of developing desktop, web, and mobile applications. Always open to new challenges and new technologies.
-
-Currently, my focus is on web and mobile development. I also have basic knowledge of frontend development, where I have worked with Windows Forms, JavaScript, Bootstrap, among others.
+>Currently, my focus is on web and mobile development. I also have basic knowledge of frontend development, where I have worked with Windows Forms, JavaScript, Bootstrap, among others.
 
 ## Technologies
 <br>
@@ -96,9 +96,9 @@ Currently, my focus is on web and mobile development. I also have basic knowledg
 - Flyway Migrations
 - DTOs for data manipulation.
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
     <a href="https://linkedin.com/in/erich-neto-507010296" target="blank">
-        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="erich-neto-507010296" height="80" width="90" />
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="erich-neto-507010296" height="100" width="100" />
     </a>
 </p>
