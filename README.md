@@ -97,7 +97,7 @@ JavaScript, Bootstrap, entre outros.
 - HSQL Database
 - JPA
 - Flyway Migrations
-- DTOs for data manipulation.
+- DTOs for data manipulation
 
 ## Connect with me
 <p align="left">
